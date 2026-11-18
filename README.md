@@ -21,7 +21,7 @@ gives a **risk score**, and explains the **warning signs** it found.
 
 | Home | Result |
 |---|---|
-| ![Home](screenshots/home.png) | ![Result](screenshots/result.png) |
+| ![Home](Screenshots/home.png) | ![Result](Screenshots/result.png) |
 
 ---
 
