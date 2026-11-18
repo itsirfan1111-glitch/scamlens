@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS scans (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    input_text TEXT NOT NULL,
+    score INT NOT NULL,
+    risk_level VARCHAR(10) NOT NULL,
+    scanned_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
