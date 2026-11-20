@@ -106,8 +106,6 @@ scamlens/
 
 ## 🔒 Security notes
 
-- Prepared statements protect against **SQL injection**
-- `textContent` is used instead of `innerHTML` to prevent **XSS**
 - `db.php` is excluded from GitHub with `.gitignore`
 
 ---
